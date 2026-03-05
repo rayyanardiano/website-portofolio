@@ -1,3 +1,31 @@
+export const images = {
+  profile: "/images/rayyann2.png",
+  linkedin: "/images/logos/linkedin.png",
+  email: "/images/logos/email.png",
+  // github: "/images/logos/github.svg",
+};
+
+export const socialLinks = [
+  {
+    name: "LinkedIn",
+    icon: images.linkedin,
+    link: "https://www.linkedin.com/in/muhammad-rayyan-ardiano-bb2aa6297/",
+    bg: "bg-blue-600 hover:bg-blue-700",
+  },
+  {
+    name: "Email",
+    icon: images.email,
+    link: "mailto:rayyan.ardiano24@gmail.com",
+    bg: "bg-red-600 hover:bg-red-700",
+  },
+  {
+    name: "GitHub",
+    icon: images.github,
+    link: "https://github.com/your-username",
+    bg: "bg-white hover:bg-gray-100",
+  },
+];
+
 const navLinks = [
   {
     name: "Projek",
