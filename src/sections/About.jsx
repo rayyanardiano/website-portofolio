@@ -7,7 +7,7 @@ const About = () => {
         {/* LEFT: Foto / ilustrasi */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="/public/images/rayyann2.png" 
+            src="/images/rayyann2.png" 
             alt="About Me"
             className="rounded-2xl shadow-lg max-w-md"
             style={{
@@ -56,7 +56,7 @@ const About = () => {
             rel="noopener noreferrer"
             className="w-12 h-12 flex items-center justify-center rounded-full bg-blue-600 hover:bg-blue-700 transition"
             >
-                <img src="/public/images/logos/linkedin.png" alt="LinkedIn" className="w-6 h-6" />
+                <img src="/images/logos/linkedin.png" alt="LinkedIn" className="w-6 h-6" />
             </a>
             
             <a
@@ -65,7 +65,7 @@ const About = () => {
             rel="noopener noreferrer"
             className="w-12 h-12 flex items-center justify-center rounded-full bg-red-600 hover:bg-red-700 transition"
             >
-                <img src="/public/images/logos/email.png" alt="Email" className="w-8 h-6" />
+                <img src="/images/logos/email.png" alt="Email" className="w-8 h-6" />
             </a>
 
             {/* <a

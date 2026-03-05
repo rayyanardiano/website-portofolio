@@ -39,7 +39,7 @@ const AppShowcase = () => {
       description:
         "Platform informasi destinasi wisata dengan fitur kategori, detail halaman, dan sistem admin.",
       image: "/images/WebFutureDev.png",
-      // link: "https://your-website-link.com",
+      link: "https://myfreeweb.xo.je/pages/index.php",
       type: "website",
     },
     {

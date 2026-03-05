@@ -244,7 +244,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Berhasil terseleksi masuk menghadapi ribuan pendaftar dan terpilih menjadi Junior Web Developer di BLK Bekasi. Saya menyelesaikan proyek pengembangan website individu menggunakan HTML, CSS, JavaScript, dan PHP dalam program pelatihan intensif selama 1,5 bulan. Berhasil membangun aplikasi web dinamis dan memperoleh Sertifikasi Kompetensi dari BNSP sebagai bukti keahlian di bidang pengembangan web.",
+    review: "Selama 1.5 Bulan, saya mempelajari bagaimana cara membuat sebuah website dengan menggunkan HTML, CSS, JS, PHP, dan Bootstrap. Untuk syarat kelulusan harus membuat sebuah website dengan mencakup semua bahasa pemograman yang sudah dipelajari, Alhamdulillah saya berhasil tepat waktu membangun aplikasi web dinamis dan memperoleh Sertifikasi Kompetensi dari BNSP sebagai bukti keahlian di bidang pengembangan web.",
     // imgPath: "/images/exp1.png",
     logoPath: "/images/logokemnaker.png",
     reviewcertification: "Certified Junior Web Devoloped by BNSP",
